@@ -1,8 +1,7 @@
 # Controle de Salgados
 
 ## Objetivos
-O sistema vai escolher uma cor aleatória e gerar uma combinação de cores baseado na escolha de uma 
-outra cor que o usuário vai escolher, usando o circulo cromático.
+Crie um site que conta os salgados no estoque permitindo os adicionar e retirar pelo controle do administrador, e mostrar quais salgados estão sendo mais vendidos por gráficos. Na pagina inicial do administrador deve conter a quantidade de vendas, os salgados vendidos, e os salgados ainda no estoque.
 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
